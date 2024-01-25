@@ -1,0 +1,2 @@
+com.whereq.keycloak.wechat.resources.QrCodeResourceProviderFactory
+com.whereq.keycloak.wechat.resources.WechatCallbackResourceProviderFactory
