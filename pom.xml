@@ -32,15 +32,15 @@
     </developers>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com:whereq/wechat-keycloak.git</connection>
-        <developerConnection>scm:git:https://github.com/whereq/wechat-keycloak.git
+        <connection>scm:git:ssh://git@github.com:whereq/keycloak-wechat.git</connection>
+        <developerConnection>scm:git:https://github.com/whereq/keycloak-wechat.git
         </developerConnection>
-        <url>https://github.com/whereq/wechat-keycloak.git</url>
+        <url>https://github.com/whereq/keycloak-wechat.git</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/whereq/wechat-keycloak/issues</url>
+        <url>https://github.com/whereq/keycloak-wechat/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
